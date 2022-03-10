@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe3bb553d8d87494ba284cc2fa603c77, type: 3}
+  m_Name: BuildingH
+  m_EditorClassIdentifier: 
+  objName: BuildingH
+  prefab: {fileID: 8082115777227699035, guid: d26b985ac0c83c0479a61351549055d1, type: 3}
+  visual: {fileID: 1215577854545735677, guid: a2435ae1f0447004babb2846c2712808, type: 3}
+  width: 3
+  height: 5

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe3bb553d8d87494ba284cc2fa603c77, type: 3}
+  m_Name: StreetLamp1
+  m_EditorClassIdentifier: 
+  objName: StreetLamp1
+  prefab: {fileID: 5339298143971391612, guid: b4449182fcdf1f2469a8bb66481e868f, type: 3}
+  visual: {fileID: 7808603764467638536, guid: f689fd3f06fc88b4aad7e9cbb2f2a721, type: 3}
+  width: 1
+  height: 1

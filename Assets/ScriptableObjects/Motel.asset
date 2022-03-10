@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe3bb553d8d87494ba284cc2fa603c77, type: 3}
+  m_Name: Motel
+  m_EditorClassIdentifier: 
+  objName: Motel
+  prefab: {fileID: 3807130611731932527, guid: 3744ca8f2c03bac4184e4d9c55067abd, type: 3}
+  visual: {fileID: 3250923606406749971, guid: d2349c3e1293c234ea481ebbda509401, type: 3}
+  width: 20
+  height: 6

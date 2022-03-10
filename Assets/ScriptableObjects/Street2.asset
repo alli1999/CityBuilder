@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe3bb553d8d87494ba284cc2fa603c77, type: 3}
+  m_Name: Street2
+  m_EditorClassIdentifier: 
+  objName: Street2
+  prefab: {fileID: 4560456016712183999, guid: 6f34a2186ccd9204080dbac4378592e1, type: 3}
+  visual: {fileID: 5363908311306528468, guid: ac4978effaccd5c46877eee9cc16201b, type: 3}
+  width: 1
+  height: 1

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe3bb553d8d87494ba284cc2fa603c77, type: 3}
+  m_Name: BuildingR
+  m_EditorClassIdentifier: 
+  objName: BuildingR
+  prefab: {fileID: 5754198105352084357, guid: 5c47effec8b0706439e30504abc2edd4, type: 3}
+  visual: {fileID: 1504173517507799855, guid: 1cfcaf9d1f337574094de254884751af, type: 3}
+  width: 4
+  height: 4
